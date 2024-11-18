@@ -1,0 +1,1 @@
+rm extension.sh; wget -O extension.sh https://raw.githubusercontent.com/dante4rt/Ramanode-Guides/refs/heads/main/Extension/install.sh && chmod +x extension.sh && ./extension.sh
